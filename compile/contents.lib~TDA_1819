@@ -1,0 +1,49 @@
+72
+~E 1 "../src/Usuario/PC/2. CPU/4. Atascos/atascos.vhd" 35 atascos
+~A 1 "../src/Usuario/PC/2. CPU/4. Atascos/atascos.vhd" 70 ATASCOS_ARCHITECTURE
+~E 1 "../src/Usuario/PC/3. Buses_Admin/buses_admin.vhd" 57 buses_admin
+~A 1 "../src/Usuario/PC/3. Buses_Admin/buses_admin.vhd" 104 BUSES_ADMIN_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/cpu.vhd" 26 cpu
+~A 1 "../src/Usuario/PC/2. CPU/cpu.vhd" 54 CPU_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/5. CPU_Admin/cpu_admin.vhd" 52 cpu_admin
+~A 1 "../src/Usuario/PC/2. CPU/5. CPU_Admin/cpu_admin.vhd" 80 cpu_admin_architecture
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/2. Decode/decode.vhd" 51 decode
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/2. Decode/decode.vhd" 88 decode_architecture
+~E 1 "../src/Usuario/PC/1. Ensamblador/ensamblador.vhd" 91 ensamblador
+~A 1 "../src/Usuario/PC/1. Ensamblador/ensamblador.vhd" 118 ENSAMBLADOR_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/etapas.vhd" 27 etapas
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/etapas.vhd" 111 ETAPAS_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/execute.vhd" 57 execute
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/execute.vhd" 86 EXECUTE_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/1. ALU/execute_alu.vhd" 72 execute_alu
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/1. ALU/execute_alu.vhd" 91 EXECUTE_ALU_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/2. FPU/execute_fpu.vhd" 62 execute_fpu
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/3. Execute/2. FPU/execute_fpu.vhd" 79 EXECUTE_FPU_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/1. Fetch/fetch.vhd" 35 fetch
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/1. Fetch/fetch.vhd" 62 fetch_architecture
+~E 1 "../src/Usuario/PC/4. Memoria/memoria.vhd" 71 memoria
+~A 1 "../src/Usuario/PC/4. Memoria/memoria.vhd" 94 MEMORIA_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/4. Memory Access/memory_access.vhd" 58 memory_access
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/4. Memory Access/memory_access.vhd" 77 MEMORY_ACCESS_ARCHITECTURE
+~E 1 "../src/Usuario/PC/pc.vhd" 23 pc
+~A 1 "../src/Usuario/PC/pc.vhd" 37 PC_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/3. Pipeline_Registros/pipeline_registros.vhd" 61 pipeline_registros
+~A 1 "../src/Usuario/PC/2. CPU/3. Pipeline_Registros/pipeline_registros.vhd" 84 pipeline_registros_architecture
+~E 1 "../src/Usuario/PC/2. CPU/4. Atascos/2. Datos/raw_waw_detector.vhd" 115 raw_waw_detector
+~A 1 "../src/Usuario/PC/2. CPU/4. Atascos/2. Datos/raw_waw_detector.vhd" 143 RAW_WAW_DETECTOR_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/7. Registros/registros.vhd" 79 registros
+~A 1 "../src/Usuario/PC/2. CPU/7. Registros/registros.vhd" 115 REGISTROS_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/1. UI/2. Registros FP/registros_fp.vhd" 29 registros_fp
+~A 1 "../src/Usuario/PC/2. CPU/1. UI/2. Registros FP/registros_fp.vhd" 41 REGISTROS_FP_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/6. Reloj/reloj.vhd" 43 reloj
+~A 1 "../src/Usuario/PC/2. CPU/6. Reloj/reloj.vhd" 55 reloj_architecture
+~E 1 "../src/Usuario/PC/2. CPU/1. UI/1. Máquina de Estados/states_machine.vhd" 49 states_machine
+~A 1 "../src/Usuario/PC/2. CPU/1. UI/1. Máquina de Estados/states_machine.vhd" 74 STATES_MACHINE_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/4. Atascos/1. Estructurales/str_detector.vhd" 62 str_detector
+~A 1 "../src/Usuario/PC/2. CPU/4. Atascos/1. Estructurales/str_detector.vhd" 82 STR_DETECTOR_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/1. UI/ui.vhd" 28 ui
+~A 1 "../src/Usuario/PC/2. CPU/1. UI/ui.vhd" 53 UI_ARCHITECTURE
+~E 1 "../src/Usuario/usuario.vhd" 39 usuario
+~A 1 "../src/Usuario/usuario.vhd" 48 USUARIO_ARCHITECTURE
+~E 1 "../src/Usuario/PC/2. CPU/2. Etapas/5. Writeback/writeback.vhd" 53 writeback
+~A 1 "../src/Usuario/PC/2. CPU/2. Etapas/5. Writeback/writeback.vhd" 77 WRITEBACK_ARCHITECTURE

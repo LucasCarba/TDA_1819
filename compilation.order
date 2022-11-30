@@ -1,0 +1,38 @@
+.\src\Packages\const_reloj.vhd
+.\src\Packages\tipos_cpu.vhd
+.\src\Packages\tipos_memoria.vhd
+.\src\Packages\const_memoria.vhd
+.\src\Packages\const_registros.vhd
+.\src\Packages\const_flags.vhd
+.\src\Packages\const_buses.vhd
+.\src\Packages\const_cpu.vhd
+.\src\Packages\tipos_ensamblador.vhd
+.\src\Packages\repert_cpu.vhd
+.\src\Packages\tipos_ascii.vhd
+.\src\Packages\const_ascii.vhd
+.\src\Packages\func_ensamblador.vhd
+.\src\Packages\const_ensamblador.vhd
+.\src\Usuario\usuario.vhd
+.\src\Usuario\PC\pc.vhd
+.\src\Usuario\PC\1. Ensamblador\ensamblador.vhd
+.\src\Usuario\PC\2. CPU\cpu.vhd
+.\src\Usuario\PC\2. CPU\1. UI\ui.vhd
+.\src\Usuario\PC\2. CPU\1. UI\1. Máquina de Estados\states_machine.vhd
+.\src\Usuario\PC\2. CPU\1. UI\2. Registros FP\registros_fp.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\etapas.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\1. Fetch\fetch.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\2. Decode\decode.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\3. Execute\execute.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\3. Execute\1. ALU\execute_alu.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\3. Execute\2. FPU\execute_fpu.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\4. Memory Access\memory_access.vhd
+.\src\Usuario\PC\2. CPU\2. Etapas\5. Writeback\writeback.vhd
+.\src\Usuario\PC\2. CPU\3. Pipeline_Registros\pipeline_registros.vhd
+.\src\Usuario\PC\2. CPU\4. Atascos\atascos.vhd
+.\src\Usuario\PC\2. CPU\4. Atascos\1. Estructurales\str_detector.vhd
+.\src\Usuario\PC\2. CPU\4. Atascos\2. Datos\raw_waw_detector.vhd
+.\src\Usuario\PC\2. CPU\5. CPU_Admin\cpu_admin.vhd
+.\src\Usuario\PC\2. CPU\6. Reloj\reloj.vhd
+.\src\Usuario\PC\2. CPU\7. Registros\registros.vhd
+.\src\Usuario\PC\3. Buses_Admin\buses_admin.vhd
+.\src\Usuario\PC\4. Memoria\memoria.vhd

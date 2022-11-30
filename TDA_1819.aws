@@ -1,0 +1,12 @@
+[Version]
+Version=10.5
+[Designs]
+tda_1819=.\TDA_1819\TDA_1819.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+tda_1819=1
